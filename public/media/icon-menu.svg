@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30">
+    <defs>
+        <style>.cls-1{fill:#fff;}</style>
+    </defs>
+    <path class="cls-1" d="M2,3H28a2,2,0,0,1,2,2h0a2,2,0,0,1-2,2H2A2,2,0,0,1,0,5H0A2,2,0,0,1,2,3Z"/>
+    <path class="cls-1" d="M2,13H28a2,2,0,0,1,2,2h0a2,2,0,0,1-2,2H2a2,2,0,0,1-2-2H0A2,2,0,0,1,2,13Z"/>
+    <path class="cls-1" d="M2,23H28a2,2,0,0,1,2,2h0a2,2,0,0,1-2,2H2a2,2,0,0,1-2-2H0A2,2,0,0,1,2,23Z"/>
+</svg>

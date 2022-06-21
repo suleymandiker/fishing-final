@@ -1,0 +1,32 @@
+[
+  {
+    "title": "CAPTAIN",
+    "icon": "tritoken-captain.webp",
+    "text": "<p>Sail on cool waters with expandable ship that crew will catch <b>$FISH</b>  Grab the ship by the ship’s rudder. An upgradeable ship is to <b>Captain</b> what the bitcoin means to <b>SATOSHI NAKAMOTO!</b></p>"
+  },
+  {
+    "title": "$FISH",
+    "icon": "tritoken-fish.webp",
+    "text": "<p>Sand in the desert, <b>$FISH</b>  in the sea... Start your <b>$FISH</b>ing adventure in small seaside towns. The governance and utility token of the fishing ecosystem. Hold, use or sell on the open market.</p>"
+  },
+  {
+    "title": "$YARD",
+    "icon": "tritoken-yard.webp",
+    "text": "<p><b>$YARD</b>  is needed to tow the Ship to the Dock and increase the Ship's capacity. You can get <b>$YARD</b>  by freezing (stake) <b>$FISH</b>  or you can buy <b>$YARD</b>  from the market.</p>"
+  },
+  {
+    "title": "Catch",
+    "icon": "tritoken-catch.webp",
+    "text": "<p>The crew who is excited will sail to the sea and will catch <b>$fish</b> . The crew catch more <b>$FISH</b>  with upgraded ship which has more capacity.</p>"
+  },
+  {
+    "title": "Freeze",
+    "icon": "tritoken-freeze.webp",
+    "text": "<p>Bring <b>$FISH</b>  to the freezer. (stake) Freeze it  and collect  <b>$YARD</b>  which  required to increase ship capacity. Frozen <b>$FISH</b>  can be stored for a long time in the refrigerator without spoiling.</p>"
+  },
+  {
+    "title": "Capacity",
+    "icon": "tritoken-capacity.webp",
+    "text": "<p>From the fishing boat to become ruler of the sea… <b>$YARD</b>  permanently increases capacity of the ship. It’s written straight to the metadata of your NFT.</p>"
+  }
+]

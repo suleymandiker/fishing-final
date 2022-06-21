@@ -1,0 +1,43 @@
+[
+  {
+    "title": "q2 2022",
+    "dones": [
+      { "0": "*Release Whitepaper" },
+      { "1": "*Genesis Smart Contract" },
+      { "2": "*Create Socials" },
+      { "3": "*Initial Artwork" },
+      { "4": "*Game Trailer" }
+    ]
+  },
+  {
+    "title": "q3 2022",
+    "dones": [
+      { "0": "*Smart Contract Audit" },
+      { "1": "*Multisig Wallet " },
+      { "2": "*Liquidity Locked" },
+      { "3": "*Initial Artwork" },
+      { "4": "*Genesis/Pre-Public Mint" },
+      { "5": "*Secondary Marketplace Launch " },
+      { "6": "*Release  $fish token" },
+      { "7": "*Release lottery draw" },
+      { "8": "*Genesis/Release invest from Investment fund" },
+      { "9": "*Genesis/Release donation" }
+    ]
+  },
+  {
+    "title": "q4 2022",
+    "dones": [
+      { "0": "*Fishing naming service" },
+      { "1": "*Invest into DAO " },
+      { "2": "*Community Based Events" }
+    ]
+  },
+  {
+    "title": "q1 2023",
+    "dones": [
+      { "0": "*P2E Game" },
+      { "1": "*Metaverse" },
+      { "2": "*Partnerships   & Collaborations. Features" }
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": 2235,
+    "name": "nft-1",
+    "isOpen": true,
+    "ton": 9,
+    "current_level": 500,
+    "coutdown": 1655830622234,
+    "level": 900,
+    "boost": 0.785,
+    "status": "Good",
+    "image": "nft_neon.webp"
+  },
+  {
+    "id": 1233,
+    "name": "nft-2",
+    "isOpen": false,
+    "ton": 4,
+    "current_level": 600,
+    "coutdown": 1656892675809,
+    "level": 700,
+    "boost": 0.185,
+    "status": "Better",
+    "image": "nft_green.webp"
+  },
+  {
+    "id": 4545,
+    "name": "nft-3",
+    "isOpen": true,
+    "ton": 8,
+    "current_level": 200,
+    "coutdown": 1655798991109,
+    "level": 1200,
+    "boost": 0.785,
+    "status": "Wonderfull",
+    "image": "nft_cyan.webp"
+  },
+  {
+    "id": 2020,
+    "name": "nft-4",
+    "isOpen": true,
+    "ton": 8,
+    "current_level": 200,
+    "coutdown": 1656898675809,
+    "level": 300,
+    "boost": 0.485,
+    "status": "Good",
+    "image": "nft_green.webp"
+  }
+]
